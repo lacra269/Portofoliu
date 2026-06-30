@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lacra269.github.io/Portofoliu/sitemap.xml
+Sitemap: https://portofoliu-web-seven.vercel.app/sitemap.xml
