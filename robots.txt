@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portofoliu-web-seven.vercel.app/sitemap.xml
